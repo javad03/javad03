@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @javadebrahimi
 - 👀 I’m interested in HTML / JAVASCRIPT / PYTHON / C++
 - 🌱 I’m currently learning HTML / JAVASCRIPT / PYTHON
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
