@@ -2,8 +2,7 @@
 - 👀 I’m interested in HTML / JAVASCRIPT / PYTHON / C++
 - 🌱 I’m currently learning HTML / JAVASCRIPT / PYTHON
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 javad03/javad03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
