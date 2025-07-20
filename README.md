@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javadebrahimi
-- 👀 I’m interested in HTML / JAVASCRIPT / PYTHON / C++
-- 🌱 I’m currently learning HTML / JAVASCRIPT / PYTHON
+- 👀 I’m interested in JAVASCRIPT / CSS / HTML / PYTHON / C++
+- 🌱 I’m currently learning JAVASCRIPT / HTML / CSS / PYTHON
 - 📫 How to reach me ......
 
 
